@@ -1,3 +1,9 @@
+This is a fork that implements the following feature(s):
+
+* Live preview of tab when cycling through selection.
+
+This fork is for Sublime Text 3 only.
+
 ##GotoOpenFile
 
 Sometimes, if you are working on a small subsection of a particularly large
