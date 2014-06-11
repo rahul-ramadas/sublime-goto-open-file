@@ -23,7 +23,8 @@ In your user settings:
 ```JSON
 
 "GotoOpenFile": {
-  "sort_views": true
+  "sort_views": true,
+  "show_preview": true
 }
 
 ```
